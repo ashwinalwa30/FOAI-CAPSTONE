@@ -26,7 +26,7 @@ Explain your approach:
 
 ## 🛠️ Tech Stack
 
-- **Programming Language:** Python / JavaScript / etc.
+- **Programming Language:**  JavaScript html css/ etc.
 - **Libraries/Frameworks:**  
   - NumPy  
   - Pandas  
@@ -35,4 +35,3 @@ Explain your approach:
 
 ---
 
-## 📂 Project Structure
